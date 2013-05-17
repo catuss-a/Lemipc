@@ -10,7 +10,6 @@ runs as much as you desire :
 
 lemipc -t id_team [-v] [-s] [-q]
 
---OPTION:
 -t : team number (mandatory)
 -v : verbose on the process (SDL graphic)
 -s : start the game
